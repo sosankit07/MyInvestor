@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyInvestor</string>
+    <string-array name="risk">
+        <item>---Select Type of Investment---</item>
+        <item>Low Risk</item>
+        <item>High Risk</item>
+    </string-array>
+    <string-array name="term">
+        <item>---Select Term of Investment---</item>
+        <item>Short Term</item>
+        <item>Long Term</item>
+    </string-array>
+    <string-array name="assets">
+        <item>---Select Your Assets---</item>
+        <item>Gold</item>
+        <item>Properties</item>
+    </string-array>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
